@@ -1,10 +1,13 @@
 {
   "name": "projet-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library management interface in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon"
+    "test": "nodemon",
+    "builddb": "psql -U library_admin -d library -f data/create_tables.sql",
+    "filldb": "psql -U library_admin -d library -f data/populate.sql",
+    "startdb": "npm run builddb && npm run filldb"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,16 @@
   "bugs": {
     "url": "https://github.com/wesley-foussard/JS-Library/issues"
   },
-  "homepage": "https://github.com/wesley-foussard/JS-Library#readme"
+  "homepage": "https://github.com/wesley-foussard/JS-Library#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.26.0"
+  }
 }
