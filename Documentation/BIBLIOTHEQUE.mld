@@ -1,0 +1,17 @@
+%%mocodo
+:::
+UTILISATEUR: code_user, pseudo, mdp
+:
+
+
+:
+LIVRE: code_user, titre, auteur, numéro, genre, pages, couverture, date publication, edition, ISBN, #code_user.1->UTILISATEUR->code_user, #code_edition->EDITION->code_edition
+:
+ORGANISE: #code_user->UTILISATEUR->code_user, _#code_user.1->LIVRE->code_user
+:
+
+
+
+:
+EDITION: code_edition, nom, site
+:::

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="435" height="515" viewBox="0 0 435 515" xmlns="http://www.w3.org/2000/svg">
+<rect id="frame" x="0" y="0" width="435" height="515" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Association GERE -->
+<g class="page_0_cwZ7e5Xo diagram_page" visibility="visible">
+	<line x1="339" y1="51" x2="111" y2="51" stroke="#9970ab" stroke-width="2"/>
+	<text x="207" y="68" fill="#1b7837" font-family="Verdana" font-size="12">0,1</text>
+	<line x1="111" y1="220" x2="111" y2="51" stroke="#9970ab" stroke-width="2"/>
+	<text x="116" y="110" fill="#1b7837" font-family="Verdana" font-size="12">1,1</text>
+	<g>
+		<path d="M137 26 a14 14 90 0 1 14 14 V51 h-80 V40 a14 14 90 0 1 14 -14" fill="#c2a5cf" stroke="#c2a5cf" stroke-width="0"/>
+		<path d="M151 51 v11 a14 14 90 0 1 -14 14 H85 a14 14 90 0 1 -14 -14 V51 H80" fill="#e7d4e8" stroke="#e7d4e8" stroke-width="0"/>
+		<rect x="71" y="26" width="80" height="50" fill="none" rx="14" stroke="#9970ab" stroke-width="2"/>
+		<line x1="71" y1="51" x2="151" y2="51" stroke="#9970ab" stroke-width="1"/>
+		<text x="78" y="43.75" fill="#000" font-family="Verdana" font-size="12">GERE</text>
+	</g>
+</g>
+
+<!-- Association ORGANISE -->
+<g class="page_0_cwZ7e5Xo diagram_page" visibility="visible">
+	<line x1="339" y1="51" x2="339" y2="220" stroke="#9970ab" stroke-width="2"/>
+	<text x="344" y="110" fill="#1b7837" font-family="Verdana" font-size="12">0,n</text>
+	<line x1="111" y1="220" x2="339" y2="220" stroke="#9970ab" stroke-width="2"/>
+	<text x="218" y="237" fill="#1b7837" font-family="Verdana" font-size="12">0,n</text>
+	<g>
+		<path d="M398 195 a14 14 90 0 1 14 14 V220 h-146 V209 a14 14 90 0 1 14 -14" fill="#c2a5cf" stroke="#c2a5cf" stroke-width="0"/>
+		<path d="M412 220 v11 a14 14 90 0 1 -14 14 H280 a14 14 90 0 1 -14 -14 V220 H146" fill="#e7d4e8" stroke="#e7d4e8" stroke-width="0"/>
+		<rect x="266" y="195" width="146" height="50" fill="none" rx="14" stroke="#9970ab" stroke-width="2"/>
+		<line x1="266" y1="220" x2="412" y2="220" stroke="#9970ab" stroke-width="1"/>
+		<text x="274" y="212.75" fill="#000" font-family="Verdana" font-size="12">ORGANISE</text>
+	</g>
+</g>
+
+<!-- Association EDITE -->
+<g class="page_0_cwZ7e5Xo diagram_page" visibility="visible">
+	<line x1="111" y1="220" x2="111" y2="372" stroke="#9970ab" stroke-width="2"/>
+	<text x="116" y="339" fill="#1b7837" font-family="Verdana" font-size="12">1,1</text>
+	<line x1="111" y1="464" x2="111" y2="372" stroke="#9970ab" stroke-width="2"/>
+	<text x="116" y="414" fill="#1b7837" font-family="Verdana" font-size="12">1,N</text>
+	<g>
+		<path d="M141 347 a14 14 90 0 1 14 14 V372 h-88 V361 a14 14 90 0 1 14 -14" fill="#c2a5cf" stroke="#c2a5cf" stroke-width="0"/>
+		<path d="M155 372 v11 a14 14 90 0 1 -14 14 H81 a14 14 90 0 1 -14 -14 V372 H88" fill="#e7d4e8" stroke="#e7d4e8" stroke-width="0"/>
+		<rect x="67" y="347" width="88" height="50" fill="none" rx="14" stroke="#9970ab" stroke-width="2"/>
+		<line x1="67" y1="372" x2="155" y2="372" stroke="#9970ab" stroke-width="1"/>
+		<text x="74" y="364.75" fill="#000" font-family="Verdana" font-size="12">EDITE</text>
+	</g>
+</g>
+
+<!-- Entity UTILISATEUR -->
+<g class="page_0_cwZ7e5Xo diagram_page" visibility="visible">
+	<g>
+		<rect x="252" y="9" width="174" height="25" fill="#a6dba0" stroke="#a6dba0" stroke-width="0" opacity="1"/>
+		<rect x="252" y="34" width="174" height="59" fill="#d9f0d3" stroke="#d9f0d3" stroke-width="0" opacity="1"/>
+		<rect x="252" y="9" width="174" height="84" fill="none" stroke="#5aae61" stroke-width="2" opacity="1"/>
+		<line x1="252" y1="34" x2="426" y2="34" stroke="#5aae61" stroke-width="1"/>
+	</g>
+	<text x="258" y="26.75" fill="#000" font-family="Verdana" font-size="12">UTILISATEUR</text>
+	<text x="257" y="51.8" fill="#000" font-family="Verdana" font-size="12">code_user</text>
+	<line x1="257" y1="54" x2="381" y2="54" stroke="#000" stroke-width="1"/>
+	<text x="257" y="68.8" fill="#000" font-family="Verdana" font-size="12">pseudo</text>
+	<text x="257" y="85.8" fill="#000" font-family="Verdana" font-size="12">mdp</text>
+</g>
+
+<!-- Entity LIVRE -->
+<g class="page_0_cwZ7e5Xo diagram_page" visibility="visible">
+	<g>
+		<rect x="9" y="118" width="204" height="25" fill="#a6dba0" stroke="#a6dba0" stroke-width="0" opacity="1"/>
+		<rect x="9" y="143" width="204" height="179" fill="#d9f0d3" stroke="#d9f0d3" stroke-width="0" opacity="1"/>
+		<rect x="9" y="118" width="204" height="204" fill="none" stroke="#5aae61" stroke-width="2" opacity="1"/>
+		<line x1="9" y1="143" x2="213" y2="143" stroke="#5aae61" stroke-width="1"/>
+	</g>
+	<text x="75" y="135.75" fill="#000" font-family="Verdana" font-size="12">LIVRE</text>
+	<text x="14" y="160.8" fill="#000" font-family="Verdana" font-size="12">code_user</text>
+	<line x1="14" y1="163" x2="138" y2="163" stroke="#000" stroke-width="1"/>
+	<text x="14" y="177.8" fill="#000" font-family="Verdana" font-size="12">titre</text>
+	<text x="14" y="194.8" fill="#000" font-family="Verdana" font-size="12">auteur</text>
+	<text x="14" y="211.8" fill="#000" font-family="Verdana" font-size="12">numéro</text>
+	<text x="14" y="228.8" fill="#000" font-family="Verdana" font-size="12">genre</text>
+	<text x="14" y="245.8" fill="#000" font-family="Verdana" font-size="12">pages</text>
+	<text x="14" y="262.8" fill="#000" font-family="Verdana" font-size="12">couverture</text>
+	<text x="14" y="279.8" fill="#000" font-family="Verdana" font-size="12">date publication</text>
+	<text x="14" y="296.8" fill="#000" font-family="Verdana" font-size="12">edition</text>
+	<text x="14" y="313.8" fill="#000" font-family="Verdana" font-size="12">ISBN</text>
+</g>
+
+<!-- Entity EDITION -->
+<g class="page_0_cwZ7e5Xo diagram_page" visibility="visible">
+	<g>
+		<rect x="29" y="422" width="164" height="25" fill="#a6dba0" stroke="#a6dba0" stroke-width="0" opacity="1"/>
+		<rect x="29" y="447" width="164" height="59" fill="#d9f0d3" stroke="#d9f0d3" stroke-width="0" opacity="1"/>
+		<rect x="29" y="422" width="164" height="84" fill="none" stroke="#5aae61" stroke-width="2" opacity="1"/>
+		<line x1="29" y1="447" x2="193" y2="447" stroke="#5aae61" stroke-width="1"/>
+	</g>
+	<text x="58" y="439.75" fill="#000" font-family="Verdana" font-size="12">EDITION</text>
+	<text x="34" y="464.8" fill="#000" font-family="Verdana" font-size="12">code_edition</text>
+	<line x1="34" y1="467" x2="188" y2="467" stroke="#000" stroke-width="1"/>
+	<text x="34" y="481.8" fill="#000" font-family="Verdana" font-size="12">nom</text>
+	<text x="34" y="498.8" fill="#000" font-family="Verdana" font-size="12">site</text>
+</g>
+</svg>

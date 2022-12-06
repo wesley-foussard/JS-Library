@@ -1,0 +1,29 @@
+{
+  "width": 435,
+  "height": 515,
+  "cx": [
+    [ "GERE", 111 ],
+    [ "UTILISATEUR", 339 ],
+    [ "LIVRE", 111 ],
+    [ "ORGANISE", 339 ],
+    [ "EDITE", 111 ],
+    [ "EDITION", 111 ]
+  ],
+  "cy": [
+    [ "GERE", 51 ],
+    [ "UTILISATEUR", 51 ],
+    [ "LIVRE", 220 ],
+    [ "ORGANISE", 220 ],
+    [ "EDITE", 372 ],
+    [ "EDITION", 464 ]
+  ],
+  "shift": [
+    [ "GERE,UTILISATEUR,0", 0 ],
+    [ "GERE,LIVRE,0", 0 ],
+    [ "ORGANISE,UTILISATEUR,0", 0 ],
+    [ "ORGANISE,LIVRE,0", 0 ],
+    [ "EDITE,LIVRE,0", 0 ],
+    [ "EDITE,EDITION,0", 0 ]
+  ],
+  "ratio": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "projet-library",
+  "version": "0.0.1",
+  "description": "A library management interface in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesley-foussard/JS-Library.git"
+  },
+  "author": "Wesley Foussard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesley-foussard/JS-Library/issues"
+  },
+  "homepage": "https://github.com/wesley-foussard/JS-Library#readme"
+}

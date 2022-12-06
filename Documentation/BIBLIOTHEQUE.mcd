@@ -1,0 +1,11 @@
+GERE,01 UTILISATEUR,11 LIVRE
+UTILISATEUR: code_user, pseudo, mdp
+
+LIVRE: code_user, titre, auteur, numéro, genre, pages, couverture, date publication, edition,ISBN
+ORGANISE,0n UTILISATEUR,0n LIVRE
+
+EDITE,11 LIVRE,1N EDITION
+:
+
+EDITION: code_edition, nom, site
+:
