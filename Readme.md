@@ -1,6 +1,9 @@
+Projet d'entrainement réalisé afin de mettre en pratique mes connaissances en Javascript, SQL etc...
+
+
 # Objectif
 
-créer une application permettant d'enrregistrer mes livres possédés, de les évaluer, d'ajouter des notes etc.
+créer une application permettant d'enregistrer mes livres possédés, de les évaluer, d'ajouter des notes etc.
 
 ## fonctionnalités
 
