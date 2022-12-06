@@ -1,4 +1,8 @@
-Projet d'entrainement réalisé afin de mettre en pratique mes connaissances en Javascript, SQL etc...
+Projet d'entrainement réalisé afin de mettre en pratique mes connaissances actuelles
+
+- javascript
+- Sequelize
+- EJS
 
 
 # Objectif
