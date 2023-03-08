@@ -30,6 +30,6 @@ créer une application permettant d'enregistrer mes livres possédés, de les é
   - 1 table auteur
   - les associations requises (MCD pas à jour)
 - 2 API
-  - QUAGGA : <https://www.postgresql.org/docs/current/sql-createrole.html>
+  - QUAGGA : <https://serratus.github.io/quaggaJS>
   - ISBNDB: <https://isbndb.com/apidocs/v2>
 - prototype ici : <https://www.geeksforgeeks.org/how-to-build-library-management-system-using-node-js/>
